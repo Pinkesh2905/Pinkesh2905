@@ -2,12 +2,12 @@
 <h3 align="center">Python & Django Developer | Full-Stack + AI Integration</h3>
 
 <p align="center">
-  Technology & Analytics Intern + Employee @ Vezapp Solutions LLP · Based in Gujarat, India 🇮🇳
+  Technology & Analytics Intern @ Vezapp Solutions LLP · Based in Gujarat, India 🇮🇳
 </p>
 
 <p align="center">
   <a href="https://x.com/PinkeshLogs"><img src="https://img.shields.io/badge/X-@PinkeshLogs-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="mailto:pinkeshd29@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,6 +23,7 @@ I build full-stack, AI-integrated products end to end — backend, frontend, and
 - **GSTR Reconciliation Toolkit** — Python tool that matches PDF invoices to GSTR-2B using a vision LLM
 - **Home Art Furniture** — Business management system built for a real furniture-store client
 
+> 📌 Pin your best 4–6 of these on your profile (Customize your pins → pick from the list) so they show above the fold.
 
 ### 🛠️ Tech Stack
 
@@ -38,16 +39,13 @@ I build full-stack, AI-integrated products end to end — backend, frontend, and
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- General stats & commits -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pinkesh2905&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <!-- Top languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkesh2905&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pinkesh2905&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkesh2905&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
 </p>
 
-<p align="center">
-  <!-- Profile summary card (stable alternate to streak-stats) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pinkesh2905&theme=tokyonight" />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Pinkesh2905&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
