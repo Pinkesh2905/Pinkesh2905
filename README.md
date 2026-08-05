@@ -23,7 +23,6 @@ I build full-stack, AI-integrated products end to end — backend, frontend, and
 - **GSTR Reconciliation Toolkit** — Python tool that matches PDF invoices to GSTR-2B using a vision LLM
 - **Home Art Furniture** — Business management system built for a real furniture-store client
 
-> 📌 Pin your best 4–6 of these on your profile (Customize your pins → pick from the list) so they show above the fold.
 
 ### 🛠️ Tech Stack
 
