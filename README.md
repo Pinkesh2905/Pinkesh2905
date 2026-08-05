@@ -38,13 +38,16 @@ I build full-stack, AI-integrated products end to end — backend, frontend, and
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pinkesh2905&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkesh2905&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
+<p align="center">
+  <!-- General stats & commits -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pinkesh2905&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <!-- Top languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkesh2905&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinkesh2905&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <!-- Profile summary card (stable alternate to streak-stats) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pinkesh2905&theme=tokyonight" />
 </p>
 
 ---
