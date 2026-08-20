@@ -16,7 +16,7 @@ Pinkesh2905 / README.md
             -#=+*++    -+-+*=:      :-===++                    
              %*====     ::: ::       -=:    :                  Contact
             -+=--:                   -+      =                 Email: .................... pinkeshd29@gmail.com
-            -+---                   :=+     =-                 LinkedIn: ................. https://www.linkedin.com/in/pinkesh29
+            -+---                   :=+     =-                 LinkedIn: ................. linkedin.com/in/pinkesh29
             -+  **=-=:             --+=  ::=:                  GitHub: .................... github.com/Pinkesh2905
             -+-%#*+---=-          --=+   ==                    
             :***=--------        ::=*=:-=                      GitHub Stats
