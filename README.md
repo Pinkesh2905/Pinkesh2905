@@ -12,11 +12,11 @@ Pinkesh2905 / README.md
             :@@@%=%%*%-:: ::----:-=+**%@@@@@-                  Languages.Web: ........... Django, DRF, React, Next.js
              =%*#+=**-        :::-===+*#@@@@                   Databases: ................ PostgreSQL, MySQL, Supabase
              *%+=:  - ::---===-:: ::-=++*@@*                   
-            +@##*=:::::-=+-:-===-   :-==+#%                    Hobbies: .................. <your hobbies here>
+            +@##*=:::::-=+-:-===-   :-==+#%                    Hobbies: .................. Vibe Coding
             -#=+*++    -+-+*=:      :-===++                    
              %*====     ::: ::       -=:    :                  Contact
-            -+=--:                   -+      =                 Email: .................... <your email here>
-            -+---                   :=+     =-                 LinkedIn: ................. <your linkedin here>
+            -+=--:                   -+      =                 Email: .................... pinkeshd29@gmail.com
+            -+---                   :=+     =-                 LinkedIn: ................. https://www.linkedin.com/in/pinkesh29
             -+  **=-=:             --+=  ::=:                  GitHub: .................... github.com/Pinkesh2905
             -+-%#*+---=-          --=+   ==                    
             :***=--------        ::=*=:-=                      GitHub Stats
